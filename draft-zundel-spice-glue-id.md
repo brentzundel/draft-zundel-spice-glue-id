@@ -19,8 +19,7 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "SPICE GLUE: GLobal Unique Enterprise Identifiers"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
@@ -45,9 +44,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: "Brent Zundel"
+    organization: mesur.io
+    email: "brent.zundel@gmail.com"
 
 normative:
 
